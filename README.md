@@ -1,7 +1,7 @@
 ## 💜 Olá, meu nome é Clodoaldo Dantas
 > Tenho 20 anos, sou formado em Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento front-end.
 
-🔭 Atualmente venho estudando mais sobre desenvolvimento web com React JS e mobile com React Native.
+🔭 Atualmente venho estudando mais sobre desenvolvimento web com React e Vue JS.
 
 💬 Caso queira entrar em contato comigo pode me mandar um email para clodoaldodantas8@gmail.com ou acessar algumas das minhas redes sociais logo abaixo.
 
