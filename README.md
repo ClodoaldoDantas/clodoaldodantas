@@ -1,5 +1,5 @@
 ## 💜 Olá, meu nome é Clodoaldo Dantas
-> Tenho 20 anos, sou formado em Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento front-end.
+> Tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento front-end.
 
 🔭 Atualmente venho estudando mais sobre desenvolvimento web com React e Vue JS.
 
