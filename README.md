@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  Olá, meu nome é Clodoaldo Dantas 🤓. Tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento front-end.
+  Olá, meu nome é Clodoaldo Dantas 🤓. Tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas e trabalho como <strong>Desenvolvedor Front-End</strong>.
 </p>
 
 <p align="left">
