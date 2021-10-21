@@ -1,27 +1,25 @@
-## 💜 Olá, meu nome é Clodoaldo Dantas
-> Tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento front-end.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-🔭 Atualmente venho estudando mais sobre desenvolvimento web com React e Vue JS.
+<p align="left">
+  Olá, meu nome é Clodoaldo Dantas 🤓. Tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas e trabalho com desenvolvimento front-end.
+</p>
 
-💬 Caso queira entrar em contato comigo pode me mandar um email para clodoaldodantas8@gmail.com ou acessar algumas das minhas redes sociais logo abaixo.
+<p align="left">
+  🦄 Linguagens: <strong>React JS, React Native e Vue JS.</strong>
+</p>
 
-----
+<p align="left">
+  💼 Ferramentas: <strong>Visual Studio Code, Node, Yarn, Insomnia.</strong>
+</p>
 
-## 🚀 Minhas Skills
+<p align="left">
+  💌 Caso queria entrar em contato comigo, acesse umas das minhas redes sociais abaixo: ⤵️
+</p>
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"/></code>
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clodoaldodantas/" /></a>
 
----
-
-## Contato
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clodoaldodantas/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clodoaldojr8)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clodoaldodantas8/)
-
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/clodoaldodantas8/"/></a>
+</p>  
