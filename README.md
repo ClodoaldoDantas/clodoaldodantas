@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>React JS, React Native e Vue JS.</strong>
+  🦄 Linguagens: <strong>Typescript, React JS, React Native e Vue JS</strong>
 </p>
 
 <p align="left">
