@@ -1,7 +1,5 @@
 ### Olá devs 👋
 
-Eu amo programar de maneira simples, organizada e com boas práticas de código.
-
 <p align="left">
   <a href="https://www.instagram.com/clodoaldodantas8/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram badge" />
